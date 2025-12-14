@@ -1,6 +1,4 @@
-Here is the same README in **.md (Markdown)** format:
 
-````markdown
 # Convolutional Neural Network — Cat & Dog Classification
 
 This project contains a single Jupyter Notebook that builds and trains a Convolutional Neural Network (CNN) to classify images of cats and dogs. It demonstrates data preprocessing, model creation, training, evaluation, and prediction—all in one file.
@@ -30,7 +28,4 @@ This project contains a single Jupyter Notebook that builds and trains a Convolu
 
 The notebook shows how a CNN can effectively distinguish between cat and dog images with strong accuracy.
 
-```
-
-If you want it **shorter**, **longer**, or with **badges**, **images**, or **dataset links**, tell me!
 ```

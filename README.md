@@ -15,7 +15,7 @@ This project contains a single Jupyter Notebook that builds and trains a Convolu
 1. Install dependencies:
    ```bash
    pip install tensorflow matplotlib numpy
-````
+   ```
 
 2. Open the notebook:
 

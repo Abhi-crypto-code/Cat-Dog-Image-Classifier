@@ -27,5 +27,3 @@ This project contains a single Jupyter Notebook that builds and trains a Convolu
 ##  Outcome
 
 The notebook shows how a CNN can effectively distinguish between cat and dog images with strong accuracy.
-
-```
